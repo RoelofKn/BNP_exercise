@@ -7,3 +7,5 @@ https://www3.ntu.edu.sg/home/ehchua/programming/java/javagame_tictactoe_ai.html#
 The first argument of the minimax method sets the depth of the search algorithm. 
 
 The front end is implemented using Swing/AWT and is not sophisticated.
+
+No dependencies on external libraries are used 
